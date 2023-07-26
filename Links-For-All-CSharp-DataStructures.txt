@@ -1,0 +1,43 @@
+Link to respective data structure implemented in C# .NET are below:-
+
+(Note: All CRUD operations along with Data Structure specific standard operations are implemented.)
+(Note: Its a console application built using .NET 7.0, .NET CLI tools and VSCode)
+
+1. Singly Linked List -
+https://github.com/MdKasimS/Singly-Linked-List-Using-DotNET-CSharp
+
+2. Doublt Linked List -
+https://github.com/MdKasimS/Doubly-Linked-List-Using-DotNET-CSharp
+
+3. Circular Singly Linked List -
+https://github.com/MdKasimS/Circular-Using-Singly-Linked-List-DotNET-CSharp
+
+4. Queue Using Singly Linked List -
+https://github.com/MdKasimS/Queue-Using-Singly-Linked-List-DotNET-CSharp
+
+5. Queue Using Singly Linked List By Using Existing Plain Singly Linked List - 
+https://github.com/MdKasimS/Queue-Using-Singly-Linked-List-2-DotNET-CSharp
+
+6. Stack Using Singly Linked List -
+https://github.com/MdKasimS/Stack-Using-Singly-Linked-List-DotNET-CSharp
+
+7. Stack Using Singly Linked List By Using Existing Plain Singly Linked List - 
+https://github.com/MdKasimS/Stack-Using-Singly-Linked-List-2-DotNET-CSharp
+
+8. Stack Using Collection Library -
+https://github.com/MdKasimS/Stack-Using-Array-List-from-Collection--DotNET-CSharp
+
+9. Stack Using Array - 
+https://github.com/MdKasimS/Stack-Using-Array-2-DotNET-CSharp
+
+10. Circular Doubly Linked List -
+[In Process]
+
+11. Queue Using Array - 
+[In Process]
+
+12. Queue Using Collections -
+[In Process]
+
+13. Cine Complex Seat Booking System Using Circular Doubly Linked List - Data Structure Application
+[In Process]
